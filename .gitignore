@@ -1,0 +1,10 @@
+node_modules/
+dist/
+target/
+.env
+.vscode/
+.idea/
+*.log
+.dockerignore
+*.iml
+.DS_Store
